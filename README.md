@@ -2,4 +2,4 @@
 
 this is a test
 
-fixes #1 Fehler gefixed
+fixes #1
